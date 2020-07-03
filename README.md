@@ -1,4 +1,4 @@
-<h1 align="center">
+[![Run on Repl.it](https://repl.it/badge/github/FolksOfMvc/Ticker)](https://repl.it/github/FolksOfMvc/Ticker)<h1 align="center">
 <img alt="tiktokclone" title="tiktokclone" src="https://res.cloudinary.com/matheuscastroweb/image/upload/v1588992052/tiktok-clone/tiktok_x9nihm.png" width="100px" />
     <br>
     TikTok Clone
